@@ -5,3 +5,10 @@ C:\Users\danie\source\repos\Tasks\obj\Debug\Tasks.csproj.AssemblyReference.cache
 C:\Users\danie\source\repos\Tasks\obj\Debug\Tasks.csproj.CoreCompileInputs.cache
 C:\Users\danie\source\repos\Tasks\obj\Debug\Tasks.exe
 C:\Users\danie\source\repos\Tasks\obj\Debug\Tasks.pdb
+C:\Users\danie\Documents\Tasks\bin\Debug\Tasks.exe.config
+C:\Users\danie\Documents\Tasks\bin\Debug\Tasks.exe
+C:\Users\danie\Documents\Tasks\bin\Debug\Tasks.pdb
+C:\Users\danie\Documents\Tasks\obj\Debug\Tasks.csproj.AssemblyReference.cache
+C:\Users\danie\Documents\Tasks\obj\Debug\Tasks.csproj.CoreCompileInputs.cache
+C:\Users\danie\Documents\Tasks\obj\Debug\Tasks.exe
+C:\Users\danie\Documents\Tasks\obj\Debug\Tasks.pdb

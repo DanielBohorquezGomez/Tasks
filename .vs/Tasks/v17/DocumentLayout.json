@@ -1,18 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\danie\\source\\repos\\Tasks\\",
+  "WorkspaceRootPath": "C:\\Users\\danie\\Documents\\Tasks\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F9D747C6-246B-46D9-A5DE-52F932610F37}|Tasks.csproj|c:\\users\\danie\\source\\repos\\tasks\\task\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F9D747C6-246B-46D9-A5DE-52F932610F37}|Tasks.csproj|C:\\Users\\danie\\Documents\\Tasks\\menu\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9D747C6-246B-46D9-A5DE-52F932610F37}|Tasks.csproj|solutionrelative:menu\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9D747C6-246B-46D9-A5DE-52F932610F37}|Tasks.csproj|c:\\users\\danie\\documents\\tasks\\task\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F9D747C6-246B-46D9-A5DE-52F932610F37}|Tasks.csproj|solutionrelative:task\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F9D747C6-246B-46D9-A5DE-52F932610F37}|Tasks.csproj|c:\\users\\danie\\source\\repos\\tasks\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F9D747C6-246B-46D9-A5DE-52F932610F37}|Tasks.csproj|C:\\Users\\danie\\Documents\\Tasks\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F9D747C6-246B-46D9-A5DE-52F932610F37}|Tasks.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F9D747C6-246B-46D9-A5DE-52F932610F37}|Tasks.csproj|c:\\users\\danie\\source\\repos\\tasks\\menu\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F9D747C6-246B-46D9-A5DE-52F932610F37}|Tasks.csproj|solutionrelative:menu\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,43 +22,42 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\danie\\source\\repos\\Tasks\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\Documents\\Tasks\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\danie\\source\\repos\\Tasks\\Program.cs",
+              "ToolTip": "C:\\Users\\danie\\Documents\\Tasks\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-30T21:14:52.459Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-30T21:14:52.459Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Menu.cs",
-              "DocumentMoniker": "C:\\Users\\danie\\source\\repos\\Tasks\\menu\\Menu.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\Documents\\Tasks\\menu\\Menu.cs",
               "RelativeDocumentMoniker": "menu\\Menu.cs",
-              "ToolTip": "C:\\Users\\danie\\source\\repos\\Tasks\\menu\\Menu.cs",
+              "ToolTip": "C:\\Users\\danie\\Documents\\Tasks\\menu\\Menu.cs",
               "RelativeToolTip": "menu\\Menu.cs",
-              "ViewState": "AgIAAGUAAAAAAAAAAAAIwG8AAABpAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-30T21:06:01.122Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Task.cs",
-              "DocumentMoniker": "C:\\Users\\danie\\source\\repos\\Tasks\\task\\Task.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\Documents\\Tasks\\task\\Task.cs",
               "RelativeDocumentMoniker": "task\\Task.cs",
-              "ToolTip": "C:\\Users\\danie\\source\\repos\\Tasks\\task\\Task.cs",
+              "ToolTip": "C:\\Users\\danie\\Documents\\Tasks\\task\\Task.cs",
               "RelativeToolTip": "task\\Task.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAzwBcAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAmwBcAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-30T21:07:27.286Z",
               "EditorCaption": ""

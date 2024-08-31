@@ -23,11 +23,11 @@ namespace Tasks.menu
                 Console.Clear();
                 Console.WriteLine("Mi Lista de Tareas.");
                 Console.WriteLine("1.Añadir una tarea.");
-                Console.WriteLine("2.Listar todas tarea.");
+                Console.WriteLine("2.Listar todas las tareas.");
                 Console.WriteLine("3.Marcar una tarea como completada.");
                 Console.WriteLine("4.Borrar una tarea.");
                 Console.WriteLine("5.Salir.");
-                Console.Write("Por favor seleccione una opción(números en pantalla: ");
+                Console.Write("Por favor seleccione una opción (números en pantalla): ");
 
                 string option = Console.ReadLine();
 
